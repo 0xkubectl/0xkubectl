@@ -4,3 +4,4 @@
 On the interwebz pplz call me kubectl or kube. I run https://avtrdb.com and do some stuff in the VRC-API space.
 
 My newly created social -> <a rel="me" href="https://troet.cafe/@kubectl">Mastodon</a>
+[GPG](https://github.com/0xkubectl.gpg)
